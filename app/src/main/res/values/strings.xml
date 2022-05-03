@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Drawer_Activity_Lab</string>
+    <string name="draweropen">Open Drawer</string>
+</resources>

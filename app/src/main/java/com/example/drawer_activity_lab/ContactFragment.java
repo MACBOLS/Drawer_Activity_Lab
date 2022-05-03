@@ -1,0 +1,6 @@
+package com.example.drawer_activity_lab;
+
+import androidx.fragment.app.Fragment;
+
+public class ContactFragment extends Fragment {
+}
